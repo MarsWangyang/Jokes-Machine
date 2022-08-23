@@ -1,0 +1,6 @@
+JokeWebApp/app.db
+/.vs
+JokeWebApp/bin
+JokeWebApp/Areas
+JokeWebApp/wwwroot/
+JokeWebApp/obj
